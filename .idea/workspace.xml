@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4740f8eb-ac5f-4f82-9175-099db157355f" name="Changes" comment="Create a enum of status type" />
+    <list default="true" id="4740f8eb-ac5f-4f82-9175-099db157355f" name="Changes" comment="Implemented User.java class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/messages/Message.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650478309595</updated>
-      <workItem from="1650478310887" duration="740000" />
+      <workItem from="1650478310887" duration="1048000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650478450644</created>
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650479044062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implemented User.java class">
+      <created>1650479242853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650479242853</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +133,7 @@
     <MESSAGE value="Adding exception for duplicate usernames" />
     <MESSAGE value="Create a enum of message type" />
     <MESSAGE value="Create a enum of status type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a enum of status type" />
+    <MESSAGE value="Implemented User.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented User.java class" />
   </component>
 </project>
