@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4740f8eb-ac5f-4f82-9175-099db157355f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/exception/DuplicateUsernameException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4740f8eb-ac5f-4f82-9175-099db157355f" name="Changes" comment="Create a enum of status type" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -74,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650478309595</updated>
-      <workItem from="1650478310887" duration="419000" />
+      <workItem from="1650478310887" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650478450644</created>
@@ -83,7 +81,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650478450644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding exception for duplicate usernames">
+      <created>1650478957741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650478957741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create a enum of message type">
+      <created>1650478983610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650478983610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create a enum of status type">
+      <created>1650479044062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650479044062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +121,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Adding exception for duplicate usernames" />
+    <MESSAGE value="Create a enum of message type" />
+    <MESSAGE value="Create a enum of status type" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a enum of status type" />
   </component>
 </project>
