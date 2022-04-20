@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4740f8eb-ac5f-4f82-9175-099db157355f" name="Changes" comment="Implemented User.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/messages/Message.java" afterDir="false" />
+    <list default="true" id="4740f8eb-ac5f-4f82-9175-099db157355f" name="Changes" comment="refactor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/controller/ServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/prajjwal/chatserverdemo/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/io/github/prajjwal/chatserverdemo/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/io/github/prajjwal/chatserverdemo/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650478309595</updated>
-      <workItem from="1650478310887" duration="1048000" />
+      <workItem from="1650478310887" duration="2101000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650478450644</created>
@@ -111,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650479242853</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Implemented Message.java class">
+      <created>1650479505832</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650479505832</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor">
+      <created>1650479639211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650479639211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +154,8 @@
     <MESSAGE value="Create a enum of message type" />
     <MESSAGE value="Create a enum of status type" />
     <MESSAGE value="Implemented User.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented User.java class" />
+    <MESSAGE value="Implemented Message.java class" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
 </project>
